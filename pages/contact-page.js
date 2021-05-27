@@ -17,10 +17,12 @@ const Contact = () => {
                     />
             </div>
             <div className="mt-4">
-                <p className="font-bold">Address</p>
-                <p className="text-xs mt-2 text-gray-600">City A</p>
+                <p className="font-bold">Name</p>
+                <p className="text-xs mt-2 text-gray-600">Hirabayashi</p>
+                <p className="font-bold  mt-3">Address</p>
+                <p className="text-xs mt-2 text-gray-600">Toshima</p>
                 <p className="font-bold mt-3">Email</p>
-                <p className="text-xs mt-2 text-gray-600">test@gmail.com</p>
+                <p className="text-xs mt-2 text-gray-600">abn@gmail.com</p>
                 <p className="font-bold mt-3">Phone</p>
                 <p className="text-xs mt-2 text-gray-600">000-0000-0000</p>  
                 
